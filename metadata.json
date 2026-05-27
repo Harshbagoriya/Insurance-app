@@ -1,0 +1,6 @@
+{
+  "name": "Insurance App",
+  "description": "Premium Insurance management and purchasing with Admin panel, plan customizer, premium calculator, claims processing, and automated smart reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
